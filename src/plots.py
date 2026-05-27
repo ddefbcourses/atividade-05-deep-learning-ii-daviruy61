@@ -46,4 +46,3 @@ def compare_models(names, scores, metric_name):
     plt.xticks(rotation=15)
 
     plt.show()
-```

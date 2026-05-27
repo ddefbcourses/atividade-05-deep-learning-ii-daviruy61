@@ -101,7 +101,7 @@ jupyter notebook
 Depois abra:
 
 ```text
-notebooks/activity.ipynb
+notebooks/assignment.ipynb
 ```
 
 
